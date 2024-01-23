@@ -10,6 +10,10 @@ The script prompts the user for the desired password length, as well as the numb
 3. Specify the number of uppercase letters, lowercase letters, numbers, and special characters as prompted.
 4. The script will generate and display a random password that meets the specified criteria.
 
+## License:
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
 ## Note:
 
 - Ensure that the sum of the character counts matches the specified password length for successful password generation.
@@ -40,6 +44,10 @@ The script still enables users to generate random passwords based on specified l
 
 4. **Enhanced User Input Handling:**
    - Improved error handling ensures that the sum of character counts matches the specified password length.
+
+## License:
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Note:
 
